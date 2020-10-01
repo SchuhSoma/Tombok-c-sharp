@@ -1,0 +1,7 @@
+C:\Users\schuhs\Documents\10A prog gyak\TombokIsmetles\TombokIsmetles\bin\Debug\TombokIsmetles.exe.config
+C:\Users\schuhs\Documents\10A prog gyak\TombokIsmetles\TombokIsmetles\bin\Debug\TombokIsmetles.exe
+C:\Users\schuhs\Documents\10A prog gyak\TombokIsmetles\TombokIsmetles\bin\Debug\TombokIsmetles.pdb
+C:\Users\schuhs\Documents\10A prog gyak\TombokIsmetles\TombokIsmetles\obj\Debug\TombokIsmetles.csprojAssemblyReference.cache
+C:\Users\schuhs\Documents\10A prog gyak\TombokIsmetles\TombokIsmetles\obj\Debug\TombokIsmetles.csproj.CoreCompileInputs.cache
+C:\Users\schuhs\Documents\10A prog gyak\TombokIsmetles\TombokIsmetles\obj\Debug\TombokIsmetles.exe
+C:\Users\schuhs\Documents\10A prog gyak\TombokIsmetles\TombokIsmetles\obj\Debug\TombokIsmetles.pdb
